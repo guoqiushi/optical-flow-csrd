@@ -18,12 +18,18 @@ moving objects.
 </div>
 
 ## Usage
+To generate single prediction from two images: 
 
+`python demo.py single img_1_path img_2_path out_path`
+
+To generate a gif from a batch of images:
+
+`python demo.py gif image_folder_path out_path`
 ## Methods
 The input consists of two consecutive frames from a video,
 annotated as $I_{t_{1}}$ and $I_{t_{2}}$. where the time interval
 is around 200ms. Label the intrusion area in advance, and a pre-define
-a threshold $\Eta$. Feeding the pair frames $I_{t_{i}}$ and $I_{t_{i+1}}$
+a threshold $\theta$. Feeding the pair frames $I_{t_{i}}$ and $I_{t_{i+1}}$
 to the model and calculate the total detected pixels inside the Intrusion area,
-once the value is over the $\Eta$, report it.
+once the value is over the $\theta$, report it.
 
