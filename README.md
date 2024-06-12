@@ -7,15 +7,16 @@ performance.
 
 
 <div align=center>
-<img src="imgs/md_1.png" alt="示例图片" width="500" height="300">
+<img src="./imgs/output_frame.gif" width="280" height="180"><img src="./imgs/output.gif" width="280" height="180">
 </div>
 
 The proposed approach can detect not only pedestrians, but also
 moving objects.
 
 <div align=center>
-<img src="imgs/md_3.png" alt="示例图片" width="500" height="150">
+<img src="./imgs/30m_ori.gif" width="280" height="180"><img src="./imgs/animation.gif" width="280" height="180">
 </div>
+
 
 ## Usage
 To generate single prediction from two images: 
@@ -34,9 +35,6 @@ to the model and calculate the total detected pixels inside the Intrusion area,
 once the value is over the $\theta$, report it.
 
 
-<div align=center>
-<img src="./imgs/30m_ori.gif" width="280" height="180"><img src="./imgs/animation.gif" width="280" height="180">
-</div>
 
 
 
