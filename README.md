@@ -35,11 +35,8 @@ once the value is over the $\theta$, report it.
 
 
 <div align=center>
-<img src="./imgs/30m_ori.gif" width="250" height="150">
+<img src="./imgs/30m_ori.gif" width="280" height="180"><img src="./imgs/animation.gif" width="280" height="180">
 </div>
 
-<div align=center>
-<img src="./imgs/animation.gif" width="250" height="150">
-</div>
 
 
