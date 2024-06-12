@@ -36,4 +36,4 @@ once the value is over the $\theta$, report it.
 <div align=center>
 <img src="https://github.com/guoqiushi/optical-flow-csrd/tree/images/animation.gif" width="250" height="150"><img src="https://github.com/guoqiushi/optical-flow-csrd/tree/imgs/30m_ori.gif" width="250" height="150">
 </div>
-![image]("https://github.com/guoqiushi/optical-flow-csrd/tree/main/imgs/animation.gif")
+![image](https://github.com/guoqiushi/optical-flow-csrd/tree/main/imgs/animation.gif)
